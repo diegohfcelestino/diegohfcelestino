@@ -1,6 +1,6 @@
 # Sejam muito bem-vindos!
 
-## Sou o Diego e atualmente sou analista de suporte de sistemas, támbem estou estudando e me empenhando para ser um futuro dev, dá uma olhadinha em meus projetos aqui pelo github ou em meu linkedin.
+## Sou o Diego e atualmente sou analista de suporte de sistemas, também estou estudando e me empenhando para ser um futuro dev, dá uma olhadinha em meus projetos aqui pelo github ou em meu linkedin
 
 Ficou curioso e quer saber no que posso contribuir? Entre em contato, será um prazer falar com você.
 
