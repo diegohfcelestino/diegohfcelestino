@@ -1,4 +1,4 @@
-Olá sou analista de suporte de sistemas e estou estudando para ser um futuro desenvolvedor, dá uma olhadinha em meus porjetos, ficou curioso e quer saber o que posso fazer, entre em contato, será um prazer falar com você.
+Olá sou analista de suporte de sistemas e estou estudando para ser um futuro desenvolvedor, dá uma olhadinha em meus projetos, ficou curioso e quer saber o que posso fazer, entre em contato, será um prazer falar com você.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/diegohfcelestino)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-34b6348b/)](https://www.linkedin.com/in/diego-ferreira-34b6348b/)
