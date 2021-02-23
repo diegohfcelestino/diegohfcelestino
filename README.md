@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/diegohfcelestino/diegohfcelestino/blob/master/banner.png">
+<img width="auto" src="https://github.com/diegohfcelestino/blob/master/banner.png">
 # Sejam muito bem-vindos!
 
 ## Sou o Diego e atualmente sou analista de suporte de sistemas, também estou estudando e me empenhando para ser um futuro Dev, dá uma olhadinha em meus projetos aqui pelo github ou em meu linkedin.
