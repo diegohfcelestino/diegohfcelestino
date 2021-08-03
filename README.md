@@ -2,9 +2,7 @@
 
 ## Sou o Diego e atualmente sou analista de suporte de sistemas, também estou estudando e me empenhando para ser um futuro Dev, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin.
 
-## Portfólio
-https://diegohfcelestino.github.io/portfolio/
-
+## Portfólio - https://diegohfcelestino.github.io/portfolio/
 
 Ficou curioso e quer saber no que posso contribuir? Entre em contato, será um prazer falar com você.
 
