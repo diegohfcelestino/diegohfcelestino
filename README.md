@@ -29,6 +29,7 @@
   <img align="center" alt="Miguel-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
  
 </div>
+  ![Snake animation](https://github.com/diegohfcelestino/diegohfcelestino/blob/output/github-contribution-grid-snake.svg)
 </br>
 </br>
 </br>
