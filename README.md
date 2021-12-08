@@ -1,18 +1,24 @@
 # Sejam muito bem-vindos 👋!
 
-## Sou o Diego e atualmente sou analista de suporte de sistemas, também estou estudando e me empenhando para ser um futuro Dev, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin.
+## Sou o Diego e atualmente sou desenvolvedor Front-end Junior, trabalhando especificamente com Reactjs e todo seu ecossistema, também estou cursando Desenvolvmetno de Sistemas, fazendo treinamentos e bootcamps na plataforma da Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin.
 
 ## Portfólio - https://diegohfcelestino.github.io/portfolio/
 
-
+<div>
+  <a href="https://github.com/diegohfcelestino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohfcelestino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohfcelestino&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
