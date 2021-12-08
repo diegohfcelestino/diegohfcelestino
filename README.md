@@ -1,6 +1,6 @@
 # Sejam muito bem-vindos 👋!
 
-## "Olá meu nome é Diego" atualmente trabalho como desenvolvedor Front-end Junior, atuando especificamente especificamente com Reactjs e todo seu ecossistema, também estou cursando Desenvolvmetno de Sistemas também estou realizando alguns treinamentos e bootcamps nas plataformas Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
+## "Olá eu sou o Diego", atualmente trabalho como desenvolvedor Front-end Junior, atuando especificamente especificamente com Reactjs e todo seu ecossistema, também estou cursando Desenvolvmetno de Sistemas também estou realizando alguns treinamentos e bootcamps nas plataformas Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
 </br>
 
 ## Portfólio - https://diegohfcelestino.github.io/portfolio/
