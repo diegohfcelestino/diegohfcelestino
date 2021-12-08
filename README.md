@@ -1,6 +1,6 @@
 # Sejam muito bem-vindos 👋!
 
-## Sou o Diego e atualmente sou desenvolvedor Front-end Junior, trabalhando especificamente com Reactjs e todo seu ecossistema, também estou cursando Desenvolvmetno de Sistemas também estou realizando alguns treinamentos e bootcamps nas plataformas Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
+## "Olá meu nome é Diego" atualmente trabalho como desenvolvedor Front-end Junior, atuando especificamente especificamente com Reactjs e todo seu ecossistema, também estou cursando Desenvolvmetno de Sistemas também estou realizando alguns treinamentos e bootcamps nas plataformas Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
 </br>
 
 ## Portfólio - https://diegohfcelestino.github.io/portfolio/
@@ -8,7 +8,7 @@
 </br>
 <div>
   <a href="https://github.com/diegohfcelestino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohfcelestino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohfcelestino&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohfcelestino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
