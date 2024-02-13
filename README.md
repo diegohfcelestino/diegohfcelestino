@@ -6,8 +6,7 @@
 ## Portfólio - https://diegohfcelestino.github.io/portfolio/
 
 </br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegohfcelestino&repo=github-readme-stats)](https://github.com/diegohfcelestino/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <a href="https://github.com/diegohfcelestino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohfcelestino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
