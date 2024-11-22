@@ -1,6 +1,6 @@
 # Sejam muito bem-vindos 👋!
 
-## "Olá, sou o Diego", desenvolvedor Web Front-end e mobile, atuando especificamente com Reactjs no frontend, React-native em mobile, também utilizo Node para criar back-end com typescript em alguns projetos, realizo treinamentos e bootcamps nas plataformas Devaria, Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
+## "Olá, sou o Diego", desenvolvedor Web Front-end e mobile, atuando com Reactjs no frontend, React-native em mobile, também utilizo Node para criar back-end com typescript em alguns projetos, realizo treinamentos e bootcamps nas plataformas Devaria, Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
 </br>
 
 ## Portfólio - https://diegohfcelestino.github.io/portfolio/
