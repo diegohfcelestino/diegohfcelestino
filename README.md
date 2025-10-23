@@ -1,10 +1,8 @@
 # Sejam muito bem-vindos 👋!
 
-## "Olá, sou o Diego", desenvolvedor Web Front-end e mobile, atuando com Reactjs no frontend, React-native em mobile, também utilizo Node para criar back-end com typescript em alguns projetos pessoais e Freela participo de treinamentos e bootcamps nas plataformas Devaria, Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
-### Experiencia em desenvolvimento de aplicativos para TV Android e Smart POS Sunmy.
+## "Olá, sou o Diego", desenvolvedor Web e mobile, atuando com Reactjs no frontend, React-native em mobile, também utilizo Node para criar back-end com typescript em alguns projetos pessoais e Freela participo de treinamentos e bootcamps nas plataformas Devaria, Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
+### Também tenho experiencia em desenvolvimento de aplicativos para TV Android Web OS (LG e SAMSUNG) e Smart POS Sunmy.
 </br>
-
-## Portfólio - https://diegohfcelestino.github.io/portfolio/
 
 </br>
 
@@ -47,7 +45,7 @@
 
 [![Githu1b Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/diegohfcelestino)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegohfcelestino/)](https://www.linkedin.com/in/diegohfcelestino/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5516991187434&text=Hello!)](https://api.whatsapp.com/send?phone=+5516991187434&text=Hello!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5516993535938&text=Hello!)](https://api.whatsapp.com/send?phone=+5516993535938&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegohfcelestino@gmail.com)](mailto:diegohfcelestino@gmail.com)
 
   
