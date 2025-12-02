@@ -18,9 +18,9 @@ Participei de bootcamps e treinamentos em plataformas como Rocketseat, Digital I
 </div>
 
 
-  
-<div style="display: inline_block"><br>
+</br>  
   🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
  
   <img align="center" alt="Diego-javascript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Diego-react" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
