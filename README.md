@@ -1,7 +1,11 @@
-# Sejam muito bem-vindos 👋!
+Sejam muito bem-vindos! 👋
 
-## "Olá, sou o Diego", desenvolvedor Web e mobile, atuando com Reactjs no frontend, React-native em mobile, também utilizo Node para criar back-end com typescript em alguns projetos pessoais e Freela participo de treinamentos e bootcamps nas plataformas Devaria, Digital Innovation One e na Rocketseat, dá uma olhadinha em meus projetos aqui pelo github, portfólio ou linkedin e conheça um pouco do meu trabalho.
-### Também tenho experiencia em desenvolvimento de aplicativos para TV Android Web OS (LG e SAMSUNG) e Smart POS Sunmy.
+Olá, sou o Diego!
+
+Desenvolvedor Full Stack com foco em React.js (Front-end), React Native (Mobile) e Node.js com TypeScript (Back-end). Tenho experiência no desenvolvimento de aplicações web, mobile e também em soluções para TV Android, WebOS (LG/Samsung) e Smart POS Sunmi.
+
+Participei de bootcamps e treinamentos em plataformas como Rocketseat, Digital Innovation One e Devaria. Fique à vontade para explorar meus projetos aqui no GitHub, no meu portfólio ou no LinkedIn.
+
 </br>
 
 </br>
@@ -9,10 +13,12 @@
  📊 Estatísticas do GitHub
  
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohfcelestino&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohfcelestino&layout=compact&langs_count=8&theme=radical" /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohfcelestino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohfcelestino&layout=compact&langs_count=12&theme=radical"/>
 </div>
 
+
+  🛠️ Tecnologias e Ferramentas
   
 <div style="display: inline_block"><br>
  
