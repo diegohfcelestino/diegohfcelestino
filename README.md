@@ -14,9 +14,9 @@ Participante ativo de bootcamps nas plataformas **Rocketseat**, **Digital Innova
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diegohfcelestino&theme=radical&hide_border=true)
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegohfcelestino&theme=radical" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegohfcelestino&theme=radical" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegohfcelestino&theme=radical" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegohfcelestino&theme=radical&include_all_commits=true&count_private=true" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegohfcelestino&theme=radical&include_all_commits=true&count_private=true" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegohfcelestino&theme=radical&include_all_commits=true&count_private=true" height="160em"/>
 </div>
 
 ---
